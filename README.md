@@ -40,13 +40,13 @@ SQL Server & Power BI
 
 ### 🖼️ Preview  
 
-👉 [View ERD Diagram] (https://drive.google.com/file/d/1zE87fWG0Xk6OdTz2y1oD4Bd-UF9bUyLI/view?usp=sharing)  
+👉 [View ERD Diagram](https://drive.google.com/file/d/1zE87fWG0Xk6OdTz2y1oD4Bd-UF9bUyLI/view?usp=sharing)  
 
-👉 [View Power BI Visualization] (https://app.powerbi.com/view?r=eyJrIjoiN2I5MDhhM2QtYjY0Ny00NWMwLWJlNzUtYzM5YzlkNGUxNTllIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)  
+👉 [View Power BI Visualization](https://app.powerbi.com/view?r=eyJrIjoiN2I5MDhhM2QtYjY0Ny00NWMwLWJlNzUtYzM5YzlkNGUxNTllIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)  
 
 ### 📂 Repository  
 
-📁 [`hospital_management_sql`] (https://github.com/Opelobami/Healthy-Life-Hospitals-DB)
+📁 [`hospital_management_sql`](https://github.com/Opelobami/Healthy-Life-Hospitals-DB)
 
 ---
 
@@ -71,11 +71,11 @@ SQL Server & Power BI
 
 ### 🖼️ Preview  
 
-👉 [View Power BI Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiYzdjZjM4OGYtNzlmOS00ODdkLWI1YjMtZmRiNGM4NzViNzRjIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)  
+👉 [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzdjZjM4OGYtNzlmOS00ODdkLWI1YjMtZmRiNGM4NzViNzRjIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)  
 
 ### 📂 Repository  
 
-📁 [`retail_sales_sql`] (https://github.com/Opelobami/Retail-Sales-Analysis)
+📁 [`retail_sales_sql`](https://github.com/Opelobami/Retail-Sales-Analysis)
 
 ---
 
@@ -84,7 +84,7 @@ SQL Server & Power BI
 Let’s connect or collaborate on **SQL Analytics**, **Data Modeling**, or **Business Intelligence** projects.  
 
 - **Name:** Opeyemi Ayodeji  
-- **LinkedIn:** [linkedin.com/in/opeyemi-ayodeji-86a696b0] (https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)  
+- **LinkedIn:** [linkedin.com/in/opeyemi-ayodeji-86a696b0](https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)  
 - **Email:** sopeyemi65@gmail.com  
 
 ---
