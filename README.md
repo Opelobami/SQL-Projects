@@ -29,7 +29,7 @@ A normalized SQL database simulating hospital operations covering patient admiss
 - Specialty  
 - Ward  
 
-### 🧠 Key Insights  
+### 💡 Key Insights  
 - Most common diagnosis: *Hypertension*  
 - Longest patient stay: *Endoscopy Suite, 14 days average*  
 - Highest admission method: *GP Referral (29 cases)*  
