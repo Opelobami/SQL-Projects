@@ -39,11 +39,11 @@ A normalized SQL database simulating hospital operations covering patient admiss
 SQL Server & Power BI  
 
 ### 🖼️ Preview  
-👉 [View ERD Diagram](#)  
-👉 [View Power BI Visualization](#)  
+👉 [View ERD Diagram] (https://drive.google.com/file/d/1zE87fWG0Xk6OdTz2y1oD4Bd-UF9bUyLI/view?usp=sharing)  
+👉 [View Power BI Visualization] (https://app.powerbi.com/view?r=eyJrIjoiN2I5MDhhM2QtYjY0Ny00NWMwLWJlNzUtYzM5YzlkNGUxNTllIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)  
 
 ### 📂 Repository  
-📁 [`/hospital_management_sql`](./hospital_management_sql)
+📁 [`/hospital_management_sql`] (https://github.com/Opelobami/Healthy-Life-Hospitals-DB)
 
 ---
 
@@ -51,65 +51,26 @@ SQL Server & Power BI
 
 ### 🗂️ Overview  
 An analytical SQL project designed to explore **sales trends, revenue growth, and product performance** for a fictional global retail company.  
-Focus areas include **customer segmentation**, **regional sales performance**, and **profitability analysis**.  
+Focus areas include **sales**, **product performance**, and **profitability analysis**.  
 
 ### 🧮 Process  
-1. Created tables for Sales, Customers, and Products  
-2. Used `JOIN`, `GROUP BY`, and `CASE` statements to compute metrics  
-3. Generated KPIs — *total sales, average order value, top-selling regions*  
+1. Created a database and imported csv retail sales data.  
+2. Used `WHERE`, `GROUP BY`, and `CASE` statements to compute metrics  
+3. Generated KPIs — *total sales, customer count and performed queries to solve business problems*  
 
 ### 💡 Key Insights  
-- Total revenue: ₦5.2M  
-- Top-performing region: Lagos  
+- Total revenue: ₦908k  
 - Highest-selling category: Electronics  
-- Returning customers: 38% of total buyers  
+- Order: 53.45% of orders occurred in the evening  
 
 ### 🧰 Tools Used  
-SQL Server, Power BI, Excel  
+SQL Server & Power BI 
 
 ### 🖼️ Preview  
-👉 [View Power BI Dashboard](#)  
+👉 [View Power BI Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiYzdjZjM4OGYtNzlmOS00ODdkLWI1YjMtZmRiNGM4NzViNzRjIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)  
 
 ### 📂 Repository  
-📁 [`/retail_sales_sql`](./retail_sales_sql)
-
----
-
-# 🚚 Project 3: Smart Logistics SQL & Power BI  
-
-### 🗂️ Overview  
-A logistics-focused SQL analysis project exploring **shipment efficiency, delay causes, and revenue performance** using relational modeling and Power BI visualization.  
-Built using Power Query for ETL and SQL Server for data management.  
-
-### 🔎 Process  
-1. Cleaned and transformed raw shipment data using Power Query  
-2. Modeled relationships between shipment, delay, and revenue tables  
-3. Wrote DAX measures and SQL queries for KPIs (delivery rate, delay %, revenue)  
-
-### 💡 Key Insights  
-- Delivered: 33.8% | Delayed: 35% | In Transit: 31.2%  
-- Top Delay Cause: Weather (26.7%)  
-- Total Revenue: ₦299K | Forecast Accuracy: 66.6%  
-- Peak Month: December (+15.6% revenue increase)  
-
-### 🧰 Tools Used  
-SQL Server, Power BI, Power Query  
-
-### 🖼️ Preview  
-👉 [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzM0OWEyNDctYWJjYy00NWZjLTg0MmMtMTA2OWRhZmIxYjZjIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)  
-
-### 📂 Repository  
-📁 [`/smart_logistics_sql`](./smart_logistics_sql)
-
----
-
-## 🧾 Summary  
-
-| Project | Focus Area | Tools Used | Key Insight |
-|----------|-------------|-------------|--------------|
-| Hospital Management | Healthcare Database | SQL Server, Power BI | GP Referral is most common admission method |
-| Retail Sales | Sales & Revenue | SQL Server, Power BI | 38% repeat customers |
-| Smart Logistics | Supply Chain Efficiency | SQL Server, Power Query | 35% shipment delays due to weather/traffic |
+📁 [`/retail_sales_sql`] (https://github.com/Opelobami/Retail-Sales-Analysis)
 
 ---
 
@@ -118,7 +79,7 @@ SQL Server, Power BI, Power Query
 Let’s connect or collaborate on **SQL Analytics**, **Data Modeling**, or **Business Intelligence** projects.  
 
 - **Name:** Opeyemi Ayodeji  
-- **LinkedIn:** [linkedin.com/in/opeyemi-ayodeji-86a696b0](https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)  
+- **LinkedIn:** [linkedin.com/in/opeyemi-ayodeji-86a696b0] (https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)  
 - **Email:** sopeyemi65@gmail.com  
 
 ---
