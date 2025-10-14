@@ -84,7 +84,7 @@ SQL Server & Power BI
 Let’s connect or collaborate on **SQL Analytics**, **Data Modeling**, or **Business Intelligence** projects.  
 
 - **Name:** Opeyemi Ayodeji  
-- **LinkedIn:** [linkedin.com/in/opeyemi-ayodeji-86a696b0](https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)  
+- **LinkedIn:** [Opeyemi Ayodeji](https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)  
 - **Email:** sopeyemi65@gmail.com  
 
 ---
