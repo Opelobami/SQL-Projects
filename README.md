@@ -22,7 +22,7 @@ SQL Server & Power BI
 
 ### Repository  
 
-[Healthy Life Hospital](https://github.com/Opelobami/Healthy-Life-Hospitals-DB)
+[`Healthy Life Hospital`](https://github.com/Opelobami/Healthy-Life-Hospitals-DB)
 
 ---
 
